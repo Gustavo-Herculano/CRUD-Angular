@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Controle PS4 ",
+      "price": "125.00"
+    },
+    {
+      "id": 2,
+      "name": "XBox One",
+      "price": "1500.00"
+    },
+    {
+      "name": "PS5",
+      "price": "4999.99",
+      "id": 4
+    },
+    {
+      "name": "PS 4",
+      "price": "1800.00",
+      "id": 5
+    },
+    {
+      "name": "Nintendo Switch",
+      "price": "2800.00",
+      "id": 6
+    }
+  ]
+}
